@@ -20,10 +20,9 @@ After cleaning the dataset and analyzing the variables of the dataset, the EDA q
 
 ## Instructions
 - Install Jupyter Notebook along with the components for Python implementation
-
-## Disclaimer
-The project has met all the specifications.
-
+- Run Jupyter Notebook then open file "Case_Study.ipnyb" 
+- Run through every cell 
+- Enjoy!
 
 ## License
 [GPL-3.0](https://choosealicense.com/licenses/gpl-3.0/)
