@@ -1,5 +1,5 @@
 # DataScience_CaseStudy_MentalHealth
-First Term Project | Sophomore Year | 
+First Term Project | Sophomore Year 
 
 Author/s: Yeohan Norona, William Dimaculangan, Lorenzo Querol
 
